@@ -1,0 +1,13 @@
+Introduction/Problem Statement
+
+New York (NY), is the most populous city in the United States. With an estimated 2018 population of 8,398,748 distributed over a land area of about 302.6 square miles.Over the last decade the city has been growing faster than the region. The New York region continues to be by far the leading metropolitan gateway for legal immigrants admitted into the United States.
+As many as 800 languages are spoken in New York, making it the most linguistically diverse city in the world.
+With it's diverse culture, comes diverse food items. There are many restaurants in New york City, each belonging to different categories like Chinese , Indian , French etc.
+The problem statement is to identify and visualize all major parts of New York City that contains indian resturants.(with limited set of test data,as we can access only limited data from foursquare per day)
+
+Following Questions Answered
+
+What is best location in New York City for Indian Cuisine ?
+Which areas have potential Indian Resturant Market ?
+Which all areas lack Indian Resturants ?
+Which is the best place to stay if I prefer Indian Cuisine ?

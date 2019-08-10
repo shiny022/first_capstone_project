@@ -1,0 +1,21 @@
+Data Analysis
+
+For this project we need the following data :
+New York City data that contains list Boroughs, Neighborhoods along with their latitude and longitude.
+Data source : https://cocl.us/new_york_dataset
+Description : This data set contains the required information. And we will use this data set to explore various neighborhoods of new york city.
+Indian resturants in each neighborhood of new york city.
+Data source : Fousquare API
+Description : By using this api we will get all the venues in each neighborhood. We can filter these venues to get only indian resturants.
+GeoSpace data
+Data source : https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm
+Description : By using this geo space data we will get the New york Borough boundaries that will help us visualize choropleth map.
+
+Approach
+
+Collect the new york city data from https://cocl.us/new_york_dataset
+Using FourSquare API we will find all venues for each neighborhood.
+Filter out all venues that are Indian Resturants.
+Find rating , tips and like count for each Indian Resturants using FourSquare API.
+Using rating for each resturant , we will sort that data.
+Visualize the Ranking of neighborhoods using folium library(python)
